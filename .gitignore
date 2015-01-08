@@ -1,5 +1,2 @@
 .DS_STORE
-texlive/install-tl-*
-texlive/texlive.profile
-texlive/texlive.squashfs
-texlive/texlive
+texlive/build

@@ -1,0 +1,9 @@
+name texlive-scripts.x86_64-darwin
+category TLCore
+revision 29809
+shortdesc x86_64-darwin files of texlive-scripts
+containersize 372
+containermd5 c6474625d8c9c707e550624360875cc8
+binfiles arch=x86_64-darwin size=2
+ bin/x86_64-darwin/man
+ bin/x86_64-darwin/rungs

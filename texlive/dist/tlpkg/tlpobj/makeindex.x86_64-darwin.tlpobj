@@ -1,0 +1,9 @@
+name makeindex.x86_64-darwin
+category Package
+revision 34201
+shortdesc x86_64-darwin files of makeindex
+containersize 44612
+containermd5 2ef83ffd600c23abe7f2b1da09232763
+binfiles arch=x86_64-darwin size=39
+ bin/x86_64-darwin/makeindex
+ bin/x86_64-darwin/mkindex

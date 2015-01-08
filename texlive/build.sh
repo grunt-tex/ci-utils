@@ -5,14 +5,12 @@ set -e
 # Set up variables
 BUILD_DIR=$PWD/build
 TARGET_DIR=$BUILD_DIR/texlive
-DIST_DIR=$PWD/dist
 EXTRAS_DIR=$PWD/extras
+DIST_DIR=$PWD/dist
 
-# Clean directories
+# Clean build directory
 rm -rf $BUILD_DIR
-rm -rf $DIST_DIR
 mkdir $BUILD_DIR
-mkdir $DIST_DIR
 
 # Download and unpack distribution
 wget -P $BUILD_DIR http://mirror.ctan.org/systems/texlive/tlnet/install-tl-unx.tar.gz
@@ -62,8 +60,10 @@ $BUILD_DIR/install-tl-*/install-tl -profile $BUILD_DIR/texlive.profile
 rm -rf $TARGET_DIR/texmf-dist/doc
 cp $EXTRAS_DIR/* $TARGET_DIR/bin/x86_64-linux
 
-# Compress
-tar -zcvf $DIST_DIR/texlive.tar.gz $TARGET_DIR
+# Clean dist folder and move build into it
+rm -rf $DIST_DIR
+mkdir $DIST_DIR
+mv $TARGET_DIR/* $DIST_DIR
 
-# Clean up build dir
-rm -rf build
+# Remove build directory
+rm -rf $BUILD_DIR

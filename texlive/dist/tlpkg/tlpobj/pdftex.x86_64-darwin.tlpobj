@@ -1,0 +1,11 @@
+name pdftex.x86_64-darwin
+category TLCore
+revision 34201
+shortdesc x86_64-darwin files of pdftex
+containersize 624824
+containermd5 24b8a89094b18d7d85a37597fb0c1c06
+binfiles arch=x86_64-darwin size=467
+ bin/x86_64-darwin/etex
+ bin/x86_64-darwin/pdfetex
+ bin/x86_64-darwin/pdftex
+ bin/x86_64-darwin/simpdftex

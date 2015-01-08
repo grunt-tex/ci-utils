@@ -1,0 +1,11 @@
+name texlive.infra.x86_64-darwin
+category TLCore
+revision 33484
+shortdesc x86_64-darwin files of texlive.infra
+containersize 234832
+containermd5 c62db3b907834b0072d6e6e4591c256f
+binfiles arch=x86_64-darwin size=178
+ bin/x86_64-darwin/tlmgr
+ tlpkg/installer/wget/wget.x86_64-darwin
+ tlpkg/installer/xz/xz.x86_64-darwin
+ tlpkg/installer/xz/xzdec.x86_64-darwin

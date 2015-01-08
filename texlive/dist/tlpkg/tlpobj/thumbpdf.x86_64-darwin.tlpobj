@@ -1,0 +1,8 @@
+name thumbpdf.x86_64-darwin
+category Package
+revision 18441
+shortdesc x86_64-darwin files of thumbpdf
+containersize 344
+containermd5 b94487d807abdabf9efa3bc530622035
+binfiles arch=x86_64-darwin size=1
+ bin/x86_64-darwin/thumbpdf

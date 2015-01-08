@@ -1,0 +1,23 @@
+name tetex.x86_64-darwin
+category TLCore
+revision 29809
+shortdesc x86_64-darwin files of tetex
+containersize 696
+containermd5 dce39a7baf07aa79af091ade61aa8a6b
+binfiles arch=x86_64-darwin size=16
+ bin/x86_64-darwin/allcm
+ bin/x86_64-darwin/allec
+ bin/x86_64-darwin/allneeded
+ bin/x86_64-darwin/dvi2fax
+ bin/x86_64-darwin/dvired
+ bin/x86_64-darwin/fmtutil
+ bin/x86_64-darwin/fmtutil-sys
+ bin/x86_64-darwin/kpsepath
+ bin/x86_64-darwin/kpsetool
+ bin/x86_64-darwin/kpsewhere
+ bin/x86_64-darwin/kpsexpand
+ bin/x86_64-darwin/texconfig-dialog
+ bin/x86_64-darwin/texconfig-sys
+ bin/x86_64-darwin/texlinks
+ bin/x86_64-darwin/updmap
+ bin/x86_64-darwin/updmap-sys

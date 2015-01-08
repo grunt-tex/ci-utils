@@ -1,0 +1,11 @@
+name latex-bin.x86_64-darwin
+category TLCore
+revision 18441
+shortdesc x86_64-darwin files of latex-bin
+containersize 368
+containermd5 28648c3f14d970e7ed7293e1c95259d7
+binfiles arch=x86_64-darwin size=4
+ bin/x86_64-darwin/dvilualatex
+ bin/x86_64-darwin/latex
+ bin/x86_64-darwin/lualatex
+ bin/x86_64-darwin/pdflatex

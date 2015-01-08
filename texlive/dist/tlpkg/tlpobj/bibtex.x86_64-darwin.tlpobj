@@ -1,0 +1,8 @@
+name bibtex.x86_64-darwin
+category Package
+revision 34201
+shortdesc x86_64-darwin files of bibtex
+containersize 68756
+containermd5 7035475a7bbc067c0acefd59fd7b0ef7
+binfiles arch=x86_64-darwin size=47
+ bin/x86_64-darwin/bibtex

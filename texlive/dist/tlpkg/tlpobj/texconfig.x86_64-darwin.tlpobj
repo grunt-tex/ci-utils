@@ -1,0 +1,8 @@
+name texconfig.x86_64-darwin
+category TLCore
+revision 29809
+shortdesc x86_64-darwin files of texconfig
+containersize 348
+containermd5 622f2e362dc62f4aeb1cfa0b3466914b
+binfiles arch=x86_64-darwin size=1
+ bin/x86_64-darwin/texconfig

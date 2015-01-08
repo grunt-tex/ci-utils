@@ -1,0 +1,8 @@
+name mptopdf.x86_64-darwin
+category Package
+revision 18674
+shortdesc x86_64-darwin files of mptopdf
+containersize 352
+containermd5 3812b3d7101c73741366aaba1afc1041
+binfiles arch=x86_64-darwin size=1
+ bin/x86_64-darwin/mptopdf

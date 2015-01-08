@@ -1,0 +1,12 @@
+name dvipdfmx.x86_64-darwin
+category TLCore
+revision 34201
+shortdesc x86_64-darwin files of dvipdfmx
+containersize 360732
+containermd5 e1c1c9fca43c1d2b321d3636db558a43
+binfiles arch=x86_64-darwin size=241
+ bin/x86_64-darwin/dvipdfm
+ bin/x86_64-darwin/dvipdfmx
+ bin/x86_64-darwin/dvipdft
+ bin/x86_64-darwin/ebb
+ bin/x86_64-darwin/extractbb

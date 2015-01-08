@@ -1,0 +1,19 @@
+name kpathsea.x86_64-darwin
+category TLCore
+revision 34201
+shortdesc x86_64-darwin files of kpathsea
+containersize 44836
+containermd5 66e16285f7733777a1be687574464468
+binfiles arch=x86_64-darwin size=44
+ bin/x86_64-darwin/kpseaccess
+ bin/x86_64-darwin/kpsereadlink
+ bin/x86_64-darwin/kpsestat
+ bin/x86_64-darwin/kpsewhich
+ bin/x86_64-darwin/mkocp
+ bin/x86_64-darwin/mkofm
+ bin/x86_64-darwin/mktexfmt
+ bin/x86_64-darwin/mktexlsr
+ bin/x86_64-darwin/mktexmf
+ bin/x86_64-darwin/mktexpk
+ bin/x86_64-darwin/mktextfm
+ bin/x86_64-darwin/texhash

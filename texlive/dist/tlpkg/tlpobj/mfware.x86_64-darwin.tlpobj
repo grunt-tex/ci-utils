@@ -1,0 +1,13 @@
+name mfware.x86_64-darwin
+category TLCore
+revision 34201
+shortdesc x86_64-darwin files of mfware
+containersize 104140
+containermd5 22dc26d31233594003c8b0db30567b12
+binfiles arch=x86_64-darwin size=159
+ bin/x86_64-darwin/gftodvi
+ bin/x86_64-darwin/gftopk
+ bin/x86_64-darwin/gftype
+ bin/x86_64-darwin/mft
+ bin/x86_64-darwin/pktogf
+ bin/x86_64-darwin/pktype

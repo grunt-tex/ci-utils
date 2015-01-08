@@ -1,0 +1,10 @@
+name metafont.x86_64-darwin
+category Package
+revision 34201
+shortdesc x86_64-darwin files of metafont
+containersize 174620
+containermd5 c6fa025c768c4d3da2a52e9c8f92c2cb
+binfiles arch=x86_64-darwin size=182
+ bin/x86_64-darwin/inimf
+ bin/x86_64-darwin/mf
+ bin/x86_64-darwin/mf-nowin

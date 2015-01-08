@@ -1,0 +1,9 @@
+name dvips.x86_64-darwin
+category Package
+revision 34201
+shortdesc x86_64-darwin files of dvips
+containersize 135456
+containermd5 d2d1c61570b8da735f78a4d389287546
+binfiles arch=x86_64-darwin size=96
+ bin/x86_64-darwin/afm2tfm
+ bin/x86_64-darwin/dvips

@@ -1,0 +1,14 @@
+name luatex.x86_64-darwin
+category TLCore
+revision 34201
+shortdesc x86_64-darwin files of luatex
+containersize 4231776
+containermd5 4bae0e0a82617fc3205cb9c5b4219961
+binfiles arch=x86_64-darwin size=4512
+ bin/x86_64-darwin/dviluatex
+ bin/x86_64-darwin/luajittex
+ bin/x86_64-darwin/luatex
+ bin/x86_64-darwin/texlua
+ bin/x86_64-darwin/texluac
+ bin/x86_64-darwin/texluajit
+ bin/x86_64-darwin/texluajitc

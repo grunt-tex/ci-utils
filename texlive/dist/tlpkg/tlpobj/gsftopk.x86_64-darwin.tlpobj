@@ -1,0 +1,8 @@
+name gsftopk.x86_64-darwin
+category TLCore
+revision 34201
+shortdesc x86_64-darwin files of gsftopk
+containersize 37208
+containermd5 fb759a2c927298d402bc5391b5f6ed96
+binfiles arch=x86_64-darwin size=24
+ bin/x86_64-darwin/gsftopk

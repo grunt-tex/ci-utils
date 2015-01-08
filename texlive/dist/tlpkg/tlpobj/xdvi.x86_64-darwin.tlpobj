@@ -1,0 +1,9 @@
+name xdvi.x86_64-darwin
+category TLCore
+revision 34201
+shortdesc x86_64-darwin files of xdvi
+containersize 471780
+containermd5 bb93e33d227480246344ccdfaeeda792
+binfiles arch=x86_64-darwin size=312
+ bin/x86_64-darwin/xdvi
+ bin/x86_64-darwin/xdvi-xaw

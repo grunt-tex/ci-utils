@@ -1,0 +1,9 @@
+name tex.x86_64-darwin
+category TLCore
+revision 34201
+shortdesc x86_64-darwin files of tex
+containersize 167432
+containermd5 9403eda6c22aae759d8a88a47193c3ca
+binfiles arch=x86_64-darwin size=102
+ bin/x86_64-darwin/initex
+ bin/x86_64-darwin/tex

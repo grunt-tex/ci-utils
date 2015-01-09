@@ -56,9 +56,8 @@ END_CAT
 # Run installer
 $BUILD_DIR/install-tl-*/install-tl -profile $BUILD_DIR/texlive.profile
 
-# Remove docs, add bin extras
+# Remove docs to save space
 rm -rf $TARGET_DIR/texmf-dist/doc
-cp $EXTRAS_DIR/* $TARGET_DIR/bin/x86_64-linux
 
 # Clean dist folder and move build into it
 rm -rf $DIST_DIR
